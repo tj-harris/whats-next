@@ -1,4 +1,4 @@
-name: CDK Synth
+name: Deploy to Pages
 
 on:
   push:
